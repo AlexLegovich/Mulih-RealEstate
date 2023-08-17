@@ -165,7 +165,7 @@ body {
 }
 
 .select__value:after {
-  content: url(/img/icons/arrow-down.svg);
+  content: url("https://alexlegovich.github.io/Mulih-RealEstate/img/icons/arrow-down.svg");
   -ms-flex-item-align: stretch;
       -ms-grid-row-align: stretch;
       align-self: stretch;
